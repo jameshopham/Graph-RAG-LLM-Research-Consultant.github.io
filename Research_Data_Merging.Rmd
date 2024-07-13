@@ -1,0 +1,30 @@
+---
+title: "Research Paper Data Merging"
+author: "James Hopham"
+date: "2024-07-10"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(dplyr)
+
+
+df1 <- read.csv("Clinical_Trials_Perspective_Headlines.csv")
+df2 <- read.csv("Clinical_Trials_News_Headlines.csv")
+df3 <- read.csv("Clinical_Trials_Journals_Headlines.csv")
+df4 <- read.csv("Health_Related_Headlines_Dataset.csv")
+df5 <- read.csv("Clinical_Trials_Related_Headlines.csv")
+
+
+combined_df <- bind_rows(df1, df2, df3, df4, df5)
+
+
+write.csv(combined_df, "Combined_Clinical_Trials_Articles.csv", row.names = FALSE)
+
+combined_df
+nrow(combined_df)
+```
