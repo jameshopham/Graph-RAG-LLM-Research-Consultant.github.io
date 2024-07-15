@@ -27,7 +27,7 @@ application of graph database construction in natural language processing (NLP) 
 Retrieval-Augmented Generation (RAG) performance allows for an improved likelihood of both avoiding 
 model hallucinations and generating more accurate responses compared to basic LLM querying alone.
 
-##Project Paper
+## Project Paper
 Here is a link to our paper covering an overview of the project background, methods, and results:
 https://github.com/jameshopham/Graph-RAG-LLM-Research-Consultant/blob/main/Graph%20Rag%20Project%20Write-Up.pdf
 
