@@ -1,6 +1,8 @@
 # Graph RAG LLM Research Consultant
 <img src="./Images/Figure 1. Node Generation.png" width="50%"/>
 <br/>
+<img src="./Images/Figure 2. Outputted Response.png" width="50%"/>
+<br/>
 
 ## Project Overview
 In this project, we created a program that considers a database I compiled containing 58,067 
