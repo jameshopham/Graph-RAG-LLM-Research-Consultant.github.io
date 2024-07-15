@@ -1,8 +1,15 @@
 # Graph RAG LLM Research Consultant
+<div align="center">
 <img src="./Images/Figure 1. Node Generation.png" width="50%"/>
 <br/>
+</div>
+Generate queried responses referenced against constructed graphs extracted from external RAG databases to retrieve highly contextual
+and accurate responses against the LLM:
+<br/>
+<div align="center">
 <img src="./Images/Figure 2. Outputted Response.png" width="50%"/>
 <br/>
+</div>
 
 ## Project Overview
 In this project, we created a program that considers a database I compiled containing 58,067 
