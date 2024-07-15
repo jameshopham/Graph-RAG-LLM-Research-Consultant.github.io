@@ -1,3 +1,7 @@
+# Graph RAg LLM Research Consultant
+<img src="./images/Figure 1. Node Generation.png" width="50%"/>
+<br/>
+
 The objective of this project was to implement emerging techniques for improving the 
 performance of generative AI large language models (LLMs) under specific contexts.  In particular, the 
 application of graph database construction in natural language processing (NLP) to provide better 
