@@ -59,6 +59,36 @@ If you have any questions or suggestions, feel free to reach out to us:
 
 - Connect with us on LinkedIn:
 
-  [James Hopham](https://www.linkedin.com/in/james-hopham-2440352a5/)
-  
-  [Raja Solanki](https://www.linkedin.com/in/solankiraja/)
+<style>
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .container img {
+        width: 150px; /* Adjust the width as needed */
+        margin: 0;
+        margin-right: 20px; /* 20 pixels of right margin */
+    }
+    .container div:last-child img {
+        margin-right: 0; /* Remove right margin for the last image */
+    }
+</style>
+
+<div class="container">
+  <div>
+    <img src="./Images/1706388570200.jpeg" alt="James Hopham">
+    <br>
+    <a href="https://www.linkedin.com/in/james-hopham-2440352a5/" target="_blank">James Hopham</a>
+  </div>
+  <div>
+    <img src="./Images/1718304683335.jpeg" alt="Raja Solanki">
+    <br>
+    <a href="https://www.linkedin.com/in/solankiraja/" target="_blank">Raja Solanki</a>
+  </div>
+</div>
+
+
+
+
