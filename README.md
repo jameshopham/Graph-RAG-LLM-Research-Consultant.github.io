@@ -59,22 +59,6 @@ If you have any questions or suggestions, feel free to reach out to us:
 
 - Connect with us on LinkedIn:
 
-<style>
-    .container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-    }
-    .container img {
-        width: 150px; /* Adjust the width as needed */
-        margin: 0;
-        margin-right: 20px; /* 20 pixels of right margin */
-    }
-    .container div:last-child img {
-        margin-right: 0; /* Remove right margin for the last image */
-    }
-</style>
 
 <div class="container">
   <div>
